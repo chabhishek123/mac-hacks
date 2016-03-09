@@ -12,7 +12,7 @@ To change the location of screenshots :
 In Yosemite , to have alias and set env variables
 
 In ~/.profile 
-export PATH=/Users/abch/Desktop/abhishek/Projects/hadoop/pig-0.15.0/bin:$M2_HOME/bin:$JRE_HOME/bin:$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH  
+ export PATH=/Users/abch/Desktop/abhishek/Projects/hadoop/pig-0.15.0/bin:$M2_HOME/bin:$JRE_HOME/bin:$JAVA_HOME/bin:$JBOSS_HOME/bin:$PATH  
   alias qbuild='mvn clean install -e -Prelease -DskipTests'
 
   
